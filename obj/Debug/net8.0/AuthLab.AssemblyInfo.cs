@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8529a4adec27206395bcbe9070beb860df94b1e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

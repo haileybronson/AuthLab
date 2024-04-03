@@ -286,3 +286,5 @@
 /Users/haileybronson/RiderProjects/AuthLab/obj/Debug/net8.0/AuthLab.pdb
 /Users/haileybronson/RiderProjects/AuthLab/obj/Debug/net8.0/AuthLab.genruntimeconfig.cache
 /Users/haileybronson/RiderProjects/AuthLab/obj/Debug/net8.0/ref/AuthLab.dll
+/Users/haileybronson/RiderProjects/AuthLab/obj/Debug/net8.0/AuthLab.sourcelink.json
+/Users/haileybronson/RiderProjects/AuthLab/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.Google.dll
